@@ -5,7 +5,7 @@
 
 #define filou printf("Miaou\n")
 #define echo7 printf("MAOW\n")
-#define guppy printf("Louez soit le saint Guppy!")
+#define guppy printf("Louez soit le saint Guppy!\n")
 #define zenit printf("Zenit\n")
 
 #endif
