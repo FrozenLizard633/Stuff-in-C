@@ -33,3 +33,4 @@ int main(void)
         return 0;
     }
 ```
+Alors évidemment d'un point de vue pratique c'est loin d'être utile, crée un header juste pour remplacer un *printf* ça fait beaucoup.
