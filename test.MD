@@ -39,6 +39,7 @@ On dirait que ça <mark>fonctionne assez bien</mark>.
 - [ ] REPEAT
 
 > Bon on dirait que ça ne veux pas fonctionner :(
+>> Mais sur GitHub là ça fonctionne... curieux.
 
 ## On ve essayer de faire un tableau :
 | Syntax | Description |
@@ -47,6 +48,7 @@ On dirait que ça <mark>fonctionne assez bien</mark>.
 | Paragraphe | Text |
 
 > Il semblerait que je peux faire les tableaux mais sans les lignes entre les colones...
+>> Ici les colones se mettent aussi.
 
 Ce document est un test pour voir comment fonctionne les commits etc...
 
